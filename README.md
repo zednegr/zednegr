@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZeD 👨🏻‍💻</h1>
-<h3 align="center">I am Junior FrontEnd Developer:) from Uzbekistan!</h3>
+<h3 align="center">I am FrontEnd Developer:) from Uzbekistan!</h3>
 
 <img src='https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e' alt='js gif' /> 
 
